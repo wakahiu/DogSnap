@@ -1,0 +1,8 @@
+/*
+* Image processing functions go here.
+*/
+
+#include "commonHeaders.h"
+
+void toGrayScale( rgb8_image_t img );
+
